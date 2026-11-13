@@ -4,7 +4,7 @@
 
 ## 下载
 
-[南鲸 SVN 2026.11.13.111055](https://github.com/nanjingya/nanjing-svn-downloads/releases/download/2026.11.13.111055/NanjingSVN-20261113111055.dmg)
+**[南鲸 SVN 2026.11.13.111055](https://github.com/nanjingya/nanjing-svn-downloads/releases/download/2026.11.13.111055/NanjingSVN-20261113111055.dmg)**
 
 - 约 19 MB
 - macOS 13 及以上
